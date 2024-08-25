@@ -1,2 +1,4 @@
 # CodeAlpha_Language_Translation_Tool
-Object Detection and Tracking 🚀 Object Detection and Tracking Real-time object detection and tracking using advanced deep learning models. Ideal for applications in security and autonomous systems, offering high accuracy and adaptability to various environments.
+Language Translation Tool
+🌐 Language Translation Tool
+Advanced translation tool using machine learning and NLP for accurate multi-language translations. Designed for seamless communication and continuous improvement based on user feedback.
